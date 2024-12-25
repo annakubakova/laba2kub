@@ -1,1 +1,1 @@
-# laba2kub
+# laba2
